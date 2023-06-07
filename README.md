@@ -7,4 +7,6 @@ Me foram lançados doi desafios:
 
 Para Análise completa, acessar o link: [EDUCAÇÃO ESPECIAL.pdf](https://github.com/Therezaclm/Analise-grafica-e-dados/files/11671317/EDUCACAO.ESPECIAL.pdf)
 
-3) 
+2) Analisar os usuários e comportamento destes em uma plataforma específica. Os dados foram diponibilizados pelo Google Analytics no qual integrei com locker para estrair importantes insights. Por se tratar de dados sensíveis, não disponibilizarei a análise completa. Deixarei apenas um slide com os dados reservados.   
+
+![ANÁLISE DOS USUÁRIOS](https://github.com/Therezaclm/Analise-grafica-e-dados/assets/122289308/5208bce9-6b7f-410a-92e6-aca49c352fbf)
